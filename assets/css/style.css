@@ -380,7 +380,7 @@ a {
     padding: 8px;
     padding-left: 25px;
     padding-right: 25px;
-    border-radius: 50px;
+    border-radius: 0px;
     font-size: 18px;
     box-shadow: var(--box-shadow);
     pointer-events: initial;
