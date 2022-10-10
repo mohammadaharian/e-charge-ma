@@ -397,7 +397,7 @@ a {
     height: 55px;
     width: 300px;
     background: #7B7B7B;
-    border-radius: 25px;
+    border-radius: 0px;
     overflow: hidden;
     box-shadow: var(--box-shadow);
     transition: 300ms height, 200ms width;
