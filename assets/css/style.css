@@ -361,7 +361,7 @@ a {
     padding: 15px;
     color: white;
     background: var(--color-accent);
-    border-radius: 50px;
+    border-radius: 0px;
 }
 
 /* Summary -> Action buttons */
