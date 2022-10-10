@@ -59,8 +59,7 @@ a {
     box-sizing: border-box;
     padding-left: 30px;
     display: flex;
-    border-top-left-radius: 50px;
-    border-bottom-left-radius: 50px;
+
 }
 
 #echargeHeader div p {
