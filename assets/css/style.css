@@ -317,7 +317,7 @@ a {
     background: white;
     box-sizing: border-box;
     padding: 20px;
-    border-radius: 20px;
+    border-radius: 0px;
     box-shadow: var(--box-shadow);
 }
 
