@@ -237,7 +237,7 @@ a {
     width: 90%;
     padding-top: 5px;
     padding-bottom: 5px;
-    border-radius: 12px;
+    border-radius: 0px;
     font-size: 20px;
     display: inline-block;
     cursor: pointer;
