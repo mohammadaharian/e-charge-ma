@@ -90,7 +90,7 @@ a {
     width: 100%;
     height: calc(100% - 60px - 40px);
     background-color: white;
-    background-image: url("../img/background.jpg");
+    background-image: #f9f9f9;
     background-size: cover;
     display: flex;
     z-index: -2;
