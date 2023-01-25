@@ -193,7 +193,7 @@ a {
 
 /* Select options -> Search button */
 #echargeMain #configurator #select #echargeSearch.option {
-    width: 30px;
+    width: 130px;
     margin-left: auto;
     padding-right: 0;
     background-color: #CECECE;
