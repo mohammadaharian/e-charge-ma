@@ -271,7 +271,7 @@ a {
     margin: auto;
     width: calc(100% - 50px);
     height: calc(100% - 50px);
-    border-radius: 40px;
+    border-radius: 0px;
     box-sizing: border-box;
     padding: 30px;
     background: #f9f9f9;
