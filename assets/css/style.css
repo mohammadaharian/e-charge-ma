@@ -75,6 +75,7 @@ a {
     overflow: hide;
     overflow: hidden;
     text-overflow: ellipsis;
+    font: normal normal bold 16px/20px Nexa;
 }
 
 #echargeHeader #echargeLogo {
