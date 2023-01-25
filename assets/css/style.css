@@ -196,7 +196,7 @@ a {
     width: 130px;
     margin-left: auto;
     padding-right: 0;
-    background-color: #C7C7C7;
+    background-color: #CECECE;
     border-radius: var(--border-radius);
     transition: 300ms background-color;
 }
