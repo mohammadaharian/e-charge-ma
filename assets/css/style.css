@@ -282,7 +282,7 @@ a {
     background: white;
     font-size: 20px;
     padding: 20px;
-    border-radius: 50px;
+    border-radius: 0px;
 }
 
 #echargeMain #summary #banner span.highlight {
