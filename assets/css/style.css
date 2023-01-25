@@ -59,8 +59,8 @@ a {
     box-sizing: border-box;
     padding-left: 30px;
     display: flex;
-    border-top-left-radius: 50px;
-    border-bottom-left-radius: 50px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
 
 }
 
