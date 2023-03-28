@@ -75,7 +75,6 @@ a {
     overflow: hide;
     overflow: hidden;
     text-overflow: ellipsis;
-    font: normal normal bold 16px/20px Nexa;
     letter-spacing: 0px;
     opacity: 1;
 }
